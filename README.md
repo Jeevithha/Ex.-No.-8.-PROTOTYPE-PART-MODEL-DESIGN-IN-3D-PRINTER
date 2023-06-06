@@ -47,7 +47,8 @@
 
 ## Output:
 
-![image](https://github.com/Jeevithha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/123623197/dae51905-0066-413a-8e00-0ebee4c161af)
+![image](https://github.com/Jeevithha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/123623197/0a7da31d-a3d2-4efe-9b5c-39b45b68ef39)
+
 
 ### Name:JEEVITHA S
 ### Register Number:212222100016
